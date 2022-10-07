@@ -1,6 +1,81 @@
-[Example]
-dp/lcs.cpp	LCS
-math/phi.cpp	Phi
+[data structure]
+data_structure/ordered_set.cpp	ordered set
+data_structure/bit2D.cpp	bit2D
+data_structure/dsu_rollback.cpp	dsu rollback
+data_structure/segtree_lazy.cpp	segtree lazy
+data_structure/min_queue.cpp	min queue
+data_structure/implicit_treap.cpp	implicit treap
+data_structure/sparse_table.cpp	sparse table
+data_structure/persistent_segtree.cpp	persistent segtree
+data_structure/dsu.cpp	dsu
+data_structure/bit.cpp	bit
+data_structure/merge_sort_tree.cpp	merge sort tree
+data_structure/treap.cpp	treap
+data_structure/segtree.cpp	segtree
+[graph]
+graph/boruvka.cpp	boruvka
+graph/dijkstra.cpp	dijkstra
+graph/kosaraju.cpp	kosaraju
+graph/kuhn.cpp	kuhn
+graph/topological_sort.cpp	topological sort
+graph/eulerian_path.cpp	eulerian path
+graph/kruskal.cpp	kruskal
+graph/bellmanford.cpp	bellmanford
+graph/edmonds_karp.cpp	edmonds karp
+graph/floyd.cpp	floyd
+graph/bruijn.cpp	bruijn
+graph/hld.cpp	hld
+graph/lca_binary_lifting.cpp	lca binary lifting
+graph/dinic.cpp	dinic
+graph/centroid_decomp.cpp	centroid decomp
+graph/2-sat.cpp	2-sat
+[others]
+others/mo.cpp	mo
+others/alg1.cpp	alg1
+others/ancestor.cpp	ancestor
+[math]
+math/primitive_root.cpp	primitive root
+math/ext_gcd.cpp	ext gcd
+math/pollard_rho_128bit.cpp	pollard rho 128bit
+math/rabin_miller.cpp	rabin miller
+math/gaussian_elimination.cpp	gaussian elimination
+math/lpf.cpp	lpf
+math/matrix_expo.cpp	matrix expo
+math/linear_div_cnt.cpp	linear div cnt
+math/linear_sieve.cpp	linear sieve
+math/discrete_log.cpp	discrete log
+math/pollard_rho.cpp	pollard rho
+math/segmented_sieve.cpp	segmented sieve
+math/gaussian_elimination_xor.cpp	gaussian elimination xor
+math/ternary_search.cpp	ternary search
+math/modmul_64bit.cpp	modmul 64bit
+math/linear_div_sum.cpp	linear div sum
+math/linear_phi.cpp	linear phi
+math/nCk_lucas.cpp	nCk lucas
+math/phi.cpp	phi
+math/discrete_root.cpp	discrete root
+[dp]
+dp/lcs.cpp	lcs
+dp/lis_nlog2.cpp	lis nlog2
+dp/lps.cpp	lps
+dp/lis.cpp	lis
+dp/lis_nlog.cpp	lis nlog
+dp/tsp.cpp	tsp
+[string]
+string/lcp.cpp	lcp
+string/prefix_function.cpp	prefix function
+string/suffix_automaton.cpp	suffix automaton
+string/trie.cpp	trie
+string/duval.cpp	duval
+string/lp_substring.cpp	lp substring
+string/kmp.cpp	kmp
+string/hashing_update.cpp	hashing update
+string/hashing.cpp	hashing
+string/prefix_automaton.cpp	prefix automaton
+string/rabin_karp.cpp	rabin karp
+string/z.cpp	z
+string/suffix_array.cpp	suffix array
+string/hashing2d.cpp	hashing2d
 
 
 # # Any line followed by a '#' character is ignored
